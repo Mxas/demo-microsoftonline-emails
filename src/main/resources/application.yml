@@ -1,0 +1,10 @@
+ms-demo:
+  mailbox:
+    username: ${USER}
+  auth:
+    tanent-id: ${TANENT}
+    client-id: ${CLIENT}
+    client-secret: ${SECRET}
+    scope: https://outlook.office365.com/.default
+    authority-url: https://login.microsoftonline.com/
+
